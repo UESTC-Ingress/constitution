@@ -1,1 +1,2 @@
 # 电子科技大学Ingress社团章程
+以后的所有修改均由发起者提起pull request，经合规审议后merge入master分支。每一版本的章程均会单独备份并锁定pull权限。
